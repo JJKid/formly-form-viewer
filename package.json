@@ -17,11 +17,13 @@
     "@angular/common": "^18.0.0",
     "@angular/compiler": "^18.0.0",
     "@angular/core": "^18.0.0",
-    "@angular/forms": "^18.0.0",
+    "@angular/forms": "^18.2.3",
     "@angular/platform-browser": "^18.0.0",
     "@angular/platform-browser-dynamic": "^18.0.0",
     "@angular/router": "^18.0.0",
-    "@ionic/angular": "^8.0.0",
+    "@ionic/angular": "^7.0.0",
+    "@ngx-formly/core": "^6.3.6",
+    "@ngx-formly/ionic": "^6.3.6",
     "ionicons": "^7.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
@@ -52,6 +54,7 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
+    "ng-packagr": "^18.2.1",
     "typescript": "~5.4.0"
   },
   "description": "An Ionic project"
